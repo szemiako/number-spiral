@@ -28,3 +28,4 @@ Wanted to do something easy as a practical example to begin learning Rust.
 1. Refactor the code to be more idiomatic.
 2. Allow the user to specify the starting corner and direction.
 3. Terminate at a number other than one (1).
+4. Add tests!
